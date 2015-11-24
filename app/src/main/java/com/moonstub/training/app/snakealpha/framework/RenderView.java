@@ -8,7 +8,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
 /**
- * Created by Micah on 11/3/2015.
+ * Created by Kobra on 11/20/2015.
  */
 public class RenderView extends SurfaceView implements Runnable {
 

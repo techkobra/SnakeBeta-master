@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Micah on 11/4/2015.
+ * Created by Kobra on 11/20/2015.
  */
 public class Pool<T> {
 

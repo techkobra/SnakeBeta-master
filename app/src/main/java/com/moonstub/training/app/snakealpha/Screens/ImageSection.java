@@ -9,7 +9,7 @@ import com.moonstub.training.app.snakealpha.framework.GameSettings;
 import java.util.ArrayList;
 
 /**
- * Created by Micah on 11/8/2015.
+ * Created by Kobra on 11/20/2015.
  */
 public class ImageSection extends Section{
     GameImage sectionImage;

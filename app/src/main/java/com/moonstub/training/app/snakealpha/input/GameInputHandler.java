@@ -12,7 +12,7 @@ import java.util.List;
 import com.moonstub.training.app.snakealpha.framework.RenderView;
 import com.moonstub.training.app.snakealpha.input.TouchEvent.TouchEvents;
 /**
- * Created by Micah on 11/4/2015.
+ * Created by Kobra on 11/20/2015.
  */
 public class GameInputHandler implements InputHandler {
 

@@ -1,7 +1,7 @@
 package com.moonstub.training.app.snakealpha.framework;
 
 /**
- * Created by Micah on 11/5/2015.
+ * Created by Kobra on 11/20/2015.
  */
 public class GameSettings {
 
